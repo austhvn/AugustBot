@@ -1,0 +1,20 @@
+
+{
+  "name": "augustbot",
+  "version": "0.1.0",
+  "description": "A custom Discord App bot based on discord.js",
+  "main": "augustbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidocaine/AugustBot.git"
+  },
+  "author": "Lidocaine <c14h22n2o@gmail.com> (http://austhvn.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lidocaine/AugustBot/issues"
+  },
+  "homepage": "https://github.com/lidocaine/AugustBot#readme"
+}
