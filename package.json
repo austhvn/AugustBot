@@ -1,4 +1,3 @@
-
 {
   "name": "augustbot",
   "version": "0.1.0",
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lidocaine/AugustBot/issues"
   },
-  "homepage": "https://github.com/lidocaine/AugustBot#readme"
+  "homepage": "https://github.com/lidocaine/AugustBot#readme",
+  "dependencies": {
+    "discord.js": "^8.0.0"
+  }
 }
